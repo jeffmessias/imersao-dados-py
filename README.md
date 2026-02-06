@@ -1,4 +1,5 @@
-<h1>Imersão de dados com Python 🐍 </h1>
+<h1>Imersão de dados com Python <img align="center" alt="Python" height="50" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </h1>
 
  <a href="https://imersao-dados-py-rh3zznasdzyzwp9bkefj6z.streamlit.app/
 ">Clique aqui e acesse o Site</a>
