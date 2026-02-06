@@ -12,10 +12,10 @@
 - Biblioteca Pandas
 - Biblioteca Numpy
 - Biblioteca Seaborn
-- Biblioca Plotly
+- Biblioteca Plotly
 
 <p align="center">
   <img width="860" height="800" src="src/assets/to_readme/Gravando2026-02-06103716-ezgif.com-video-to-gif-converter.gif">
 </p>
 
- <h2>Desenvolvido junto com Alura 💙</h2> 
+ <h3>Desenvolvido junto com Alura 💙</h3> 
