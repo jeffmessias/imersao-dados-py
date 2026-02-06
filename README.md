@@ -6,4 +6,7 @@ aulas feitas com o google colab https://colab.research.google.com/drive/1husttEH
 
 Foi usado visual studio code com todos os códigos usados no colab, com a diferença de instalar e importar as libs
 
-<img width="970" height="420" alt="image" src="https://github.com/user-attachments/assets/9b59a04d-7b78-480d-94ca-58d52eaaf4aa" />
+<p align="center">
+  <img width="460" height="300" src="src/assets/to_readme/Gravando2026-02-06103716-ezgif.com-video-to-gif-converter.gif">
+</p>
+  
